@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/moviez/static/css/main.74e983d8.css",
+    "main.js": "/github.io/moviez/static/js/main.44a66a33.js",
+    "index.html": "/github.io/moviez/index.html",
+    "main.74e983d8.css.map": "/github.io/moviez/static/css/main.74e983d8.css.map",
+    "main.44a66a33.js.map": "/github.io/moviez/static/js/main.44a66a33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e983d8.css",
+    "static/js/main.44a66a33.js"
+  ]
+}
